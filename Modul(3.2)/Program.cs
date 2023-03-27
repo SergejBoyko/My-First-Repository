@@ -1,4 +1,4 @@
-﻿using System; // Подключенное пространство имен
+using System; // Подключенное пространство имен
 using System.Data;
 using System.Globalization;
 
